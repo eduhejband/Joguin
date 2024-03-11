@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1710117659 source:/home/vboxuser/Documents/jogo/jogo/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"game.h"
+	"game2.h"
+
+1710116893 source:/home/vboxuser/Documents/jogo/jogo/game.cpp
+	"game.h"
+
+1710116915 /home/vboxuser/Documents/jogo/jogo/game.h
+	<SFML/Graphics.hpp>
+
+1710116763 source:/home/vboxuser/Documents/jogo/jogo/game2.cpp
+	"game2.h"
+
+1710116763 /home/vboxuser/Documents/jogo/jogo/game2.h
+	<SFML/Graphics.hpp>
+
